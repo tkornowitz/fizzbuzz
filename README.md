@@ -8,7 +8,7 @@ Prints out the following for a number :
 
 ## Example
 
-9 should return "Fizz"
-10 should return "Buzz"
-15 should return "FizzBuzz"
-13 should return "Lucky"
+* 9 should return "Fizz"
+* 10 should return "Buzz"
+* 15 should return "FizzBuzz"
+* 13 should return "Lucky"
