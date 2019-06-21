@@ -1,14 +1,16 @@
-# fizzbuzz
+# Chhota Bheem Challenge
+![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Chhota_Bheem.jpg/250px-Chhota_Bheem.jpg)
 
 Prints out the following for a number :
-* `Fizz` for numbers that are multiples of `3`
-* `Buzz` for numbers that are multiples of `5`
-* `FizzBuzz` for numbers that are multiples of `15`
-* if the number contains a `three` output the text `Lucky`, overriding any existing behaviour
+* `Chhota` for numbers that are multiples of `3`
+* `Bheem` for numbers that are multiples of `5`
+* `Chhota Bheem` for numbers that are multiples of `15`
+* if the number contains a `three` output the text `Kalia`, overriding any existing behaviour
 
 ## Example
 
-* 9 should return "Fizz"
-* 10 should return "Buzz"
-* 15 should return "FizzBuzz"
-* 13 should return "Lucky"
+* 9 should return "Chhota"
+* 10 should return "Bheem"
+* 15 should return "Chhota Bheem"
+* 13 should return "Kalia"
+
